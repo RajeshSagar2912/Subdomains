@@ -1,0 +1,12 @@
+apiexcel.mytravelsolution.com
+autodiscover.mytravelsolution.com
+motor.mytravelsolution.com
+msoid.mytravelsolution.com
+myprofileadmin.mytravelsolution.com
+mytravelsolution.com
+qa.mytravelsolution.com
+qamotor.mytravelsolution.com
+qamyprofileadmin.mytravelsolution.com
+usersprofile.mytravelsolution.com
+www.mytravelsolution.com
+_dmarc.mytravelsolution.com

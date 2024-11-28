@@ -1,0 +1,15 @@
+ai.handmade.com
+blog.handmade.com
+demo.handmade.com
+ns1.handmade.com
+ns2.handmade.com
+ns3.handmade.com
+ns4.handmade.com
+rebelmouse.handmade.com
+test.handmade.com
+web.handmade.com
+www.handmade.com
+_dmarc.handmade.com
+_acme-challenge.handmade.com
+_acme-challenge.rebelmouse.handmade.com
+_acme-challenge.www.handmade.com

@@ -90,7 +90,6 @@ takeoff.airship.com
 team.airship.com
 the-ship-web.airship.com
 tt.magma.airship.com
-www.airship.com
 zendesk1.airship.com
 zendesk2.airship.com
 zendesk3.airship.com
@@ -98,4 +97,26 @@ zendesk4.airship.com
 zerobin.airship.com
 _dmarc.airship.com
 help.airship.com
+_acme-challenge.analyze-api-staging.airship.com
+_acme-challenge.analyze-api.airship.com
+_acme-challenge.analyze-forward-api.airship.com
+_acme-challenge.analyze-forward.airship.com
+_acme-challenge.analyze-staging.airship.com
+_acme-challenge.analyze.airship.com
+_acme-challenge.basement-api.airship.com
+_acme-challenge.basement.airship.com
+_acme-challenge.bizops.airship.com
+_acme-challenge.identity-stag.airship.com
+_acme-challenge.identity.airship.com
+_acme-challenge.magma.airship.com
+_acme-challenge.tt.magma.airship.com
+_dmarc.app.airship.com
+_dmarc.bounce.airship.com
+_dmarc.marketplace.airship.com
+asuid.status.airship.com
+clipq-staging.airship.com
+gh-mail.airship.com
+identity-mail-stag.airship.com
+identity-mail.airship.com
+trial-bounce.airship.com
 
